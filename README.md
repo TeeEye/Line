@@ -8,4 +8,4 @@ including
 
 # API
 AlgorightmClassName::draw(CPoint from, CPoint to, CDC* dc);
-(CDC* dc is used to draw pixels)
+- (CDC* dc is used to draw pixels)
