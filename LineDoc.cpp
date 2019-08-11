@@ -1,6 +1,6 @@
 // LineDoc.cpp : implementation of the CLineDoc class
 //
-
+iasdad
 #include "stdafx.h"
 #include "Line.h"
 
